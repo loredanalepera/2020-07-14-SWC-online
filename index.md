@@ -68,9 +68,10 @@ displayed if the 'eventbrite' field in the header is not set.
 <p>To enroll fill this form: <a href="https://forms.gle/qqLHRxAGPV2iE4q66">link</a>. <p>
 <p> Deadline for application is: <strong>Jul 1, 2020.</strong> </p> 
 
-<p>There are <strong>15 seats</strong> available. Partecipants will be selected on the basis of <strong>motivations given in the application form</strong>. Chosen participants will be notified by <strong>Jul 7, 2020</strong></p>
+<p>There are <strong>15 seats</strong> available. Partecipants will be selected on the basis of <strong>motivations given in the application form</strong>.</p> 
+<p>Selected participants will be notified by <strong>Jul 7, 2020</strong></p>
 
-<h3>Organisers</h3>
+<h4>Organisers</h4>
 <p> Allegra Via, National Research Council - <a href="https://elixir-iib-training.github.io/website/instructors/allegra_via.html">Homepage</a> </p>
 <p> Loredana Le Pera, National Research Council - <a href="https://elixir-iib-training.github.io/website/instructors/loredana_le_pera.html">Homepage</a> </p>
 <p> Vincenza Colonna, National Research Council - <a href="http://www.igb.cnr.it/popgenlab/research">Homepage</a> </p> 
