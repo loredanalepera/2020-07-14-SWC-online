@@ -69,7 +69,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <p> Deadline for application is: <strong>Jul 1, 2020.</strong> </p> 
 
 <p>There are <strong>15 seats</strong> available. Partecipants will be selected on the basis of <strong>motivations given in the application form</strong>.</p> 
-<p>Selected participants will be notified by <strong>Jul 7, 2020</strong></p>
+<p>Selected participants will be notified by <strong>Jul 7, 2020.</strong></p>
 
 <h4>Organisers</h4>
 <p> Allegra Via, National Research Council - <a href="https://elixir-iib-training.github.io/website/instructors/allegra_via.html">Homepage</a> </p>
