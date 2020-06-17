@@ -65,7 +65,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2>Registration</h2>
-<p>To enroll fill this form: <a href="https://tinyurl.com/ybv8j93f">link</a> <p>
+<p>To enroll fill this form: <a href="https://forms.gle/qqLHRxAGPV2iE4q66">link</a> <p>
 <p> Deadline for application is <strong>Jul 1, 2020</strong> </p> 
 
 <p>There are <strong>15 seats</strong> available. Partecipants will be selected on the basis of <strong>motivations given in the application form</strong>. Chosen participants will be notified by <strong>Jul 7, 2020</strong></p>
