@@ -69,10 +69,10 @@ displayed if the 'eventbrite' field in the header is not set.
 <p> Vincenza Colonna, National Research Council and ELIXIR - <a href="http://www.igb.cnr.it/popgenlab/research">Homepage</a> </p> 
 
 <h2>Registration</h2>
-<p>To enroll fill this form: <a href="https://forms.gle/qqLHRxAGPV2iE4q66">link</a>. <p>
-<p> Deadline for application is: <strong>Jul 1, 2020.</strong> </p> 
+<p>Here is the registration link: <a href="https://forms.gle/qqLHRxAGPV2iE4q66">link</a>. <p>
+<p>Deadline for application is: <strong>Jul 1, 2020.</strong> </p> 
 
-<p>There are <strong>15 seats</strong> available. Partecipants will be selected on the basis of <strong>motivations given in the application form</strong>.</p> 
+<p>A maximum of <strong>15 candidates</strong> will be selected on the basis of <strong>motivations given in the application form</strong>.</p> 
 <p>Selected participants will be notified by <strong>Jul 7, 2020.</strong></p>
 
 <h2 id="general">General Information</h2>
